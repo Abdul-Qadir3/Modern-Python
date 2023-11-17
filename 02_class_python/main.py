@@ -2,7 +2,7 @@ a = "Abdul"
 print(a)
 
 b: str ="Abdul Qadir"
-
+        
 print(b)
 
 print(type(b))
