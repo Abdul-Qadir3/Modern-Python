@@ -11,6 +11,8 @@ print(b)
 
 print(type(b))
 
+print(id(b)) #physical address
+
 #set
 #A set is an unordered collection of unique elements. In Python, sets are defined using curly braces {} or the set() constructor.
 my_set = {1, 2, 3}
