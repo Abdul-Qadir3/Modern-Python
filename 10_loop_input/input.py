@@ -9,4 +9,4 @@ print("line1")
 print("line2")
 
 print(type(sys.argv))# check the type of argv
-print(sys.argv) #itrative data type argv=argument value
+print(sys.argv) #itrative data type argv=argument value 0=filename and user defined value
